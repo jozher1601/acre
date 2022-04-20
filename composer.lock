@@ -1,0 +1,64 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b274116dd0812194e8b58577bbf2a154",
+    "packages": [
+        {
+            "name": "kumbia/framework",
+            "version": "v1.1.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/KumbiaPHP/KumbiaPHP.git",
+                "reference": "72235c00af4a51300df17e1922ec27c4f40732b9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/KumbiaPHP/KumbiaPHP/zipball/72235c00af4a51300df17e1922ec27c4f40732b9",
+                "reference": "72235c00af4a51300df17e1922ec27c4f40732b9",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4"
+            },
+            "require-dev": {
+                "mockery/mockery": ">=0.9",
+                "php": ">=5.4",
+                "phpunit/phpunit": ">=4.0"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "description": "The KumbiaPHP framework",
+            "homepage": "https://kumbiaphp.com",
+            "support": {
+                "forum": "http://foro.kumbiaphp.com/",
+                "group": "https://groups.google.com/group/kumbia",
+                "issues": "https://github.com/KumbiaPHP/KumbiaPHP/issues",
+                "slack": "https://slack.kumbiaphp.com",
+                "source": "https://github.com/KumbiaPHP/KumbiaPHP",
+                "wiki": "http://wiki.kumbiaphp.com"
+            },
+            "funding": [
+                {
+                    "url": "https://opencollective.com/kumbiaphp",
+                    "type": "open_collective"
+                }
+            ],
+            "time": "2021-07-22T12:05:45+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
